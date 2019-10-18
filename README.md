@@ -20,7 +20,7 @@ Navigate to https://lutris.net/games/halo-online/
 Click "Install"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot1.png" height="600" width="600">
+  <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot1.png" height="800" width="800">
 </p>
 
 Follow the Lutris prompts, and select the downloaded zip file when asked
@@ -28,13 +28,13 @@ Follow the Lutris prompts, and select the downloaded zip file when asked
 Once installed, right click the game in Lutris and select "Configure"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot2.png" height="600" width="600">
+  <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot2.png" height="800" width="800">
 </p>
 
 Go to the "Runner options" tab and change the DXVK version to 1.2.3, then click "Save"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot3.png" height="600" width="600">
+  <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot3.png" height="800" width="800">
 </p>
 
 Congratulations, you can now launch the game by clicking on it in Lutris. You *must* change your in-game settings for Video *to NOT use High settings*, otherwise the game will be unplayable due a texture bug. Despite this fix, you may encounter black textures anyway in certain parts of certain maps. 
