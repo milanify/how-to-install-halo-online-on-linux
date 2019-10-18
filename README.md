@@ -13,7 +13,7 @@ Install Wine
 - Fedora https://wiki.winehq.org/Fedora
 
 [Download the patched zip file containing all game assets](https://github.com/)
-*Note: This particular file contains additional maps that aren't typically included. You can alternatively find a smaller zip file by going to https://www.reddit.com/r/ms23downloads/ or searching for a patched (eldewrito 0.6.0) cert_ms23 archive on the web*
+(*Note: This particular file contains additional maps that aren't typically included. You can alternatively find a smaller zip file by going to https://www.reddit.com/r/ms23downloads/ or searching for a patched (eldewrito 0.6.0) cert_ms23 archive on the web*)
 
 Navigate to https://lutris.net/games/halo-online/
 
