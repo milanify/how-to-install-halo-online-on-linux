@@ -17,13 +17,13 @@ Install Wine
 
 Navigate to https://lutris.net/games/halo-online/
 
-Click "Install"
+Click "Install" (as shown in the bottom right of this screenshot)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot1.png">
 </p>
 
-Follow the Lutris prompts, and select the downloaded zip file when asked
+Follow the Lutris prompts, and select the downloaded zip file when asked to
 
 Once installed, right click the game in Lutris and select "Configure"
 
@@ -37,5 +37,5 @@ Go to the "Runner options" tab and change the DXVK version to 1.2.3, then click 
   <img src="https://raw.githubusercontent.com/milan102/how-to-install-halo-online-on-linux/master/images/screenshot3.png">
 </p>
 
-Congratulations, you can now launch the game by clicking on it in Lutris. You *must* change your in-game settings for Video *to NOT use High settings*, otherwise the game will be unplayable due a texture bug. Despite this fix, you may encounter black textures anyway in certain parts of certain maps. 
+Congratulations, you can now launch the game by clicking on it in Lutris. ***You must change your in-game settings for Video to NOT use High settings***, otherwise the game will be unplayable due a texture bug. Despite this fix, you may encounter black textures anyway in certain parts of certain maps. 
 
