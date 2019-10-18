@@ -41,4 +41,4 @@ Congratulations, you can now launch the game by clicking on it in Lutris. ***You
 
 
 ## Disclaimer
-This is only confirmed working in Ubuntu with a NVIDIA graphics card. Results across different distros and hardware may vary.
+This is only confirmed working in Ubuntu with a NVIDIA graphics card. Results across different distros and hardware may vary. Go to https://www.reddit.com/r/HaloOnline/ for more information
